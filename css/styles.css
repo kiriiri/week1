@@ -3,7 +3,7 @@ h1 {
     text-align:center;
 }
 h2 {
-    color:grey;
+    color:white;
 }
 .container {
     position:relative;
@@ -16,6 +16,9 @@ h2 {
     top:50%;
     left:50%;
     transform:translate(-50%, -50%);
+}
+.border-radius {
+    border-radius:50%;
 }
 .projects {
     color:grey;
@@ -35,12 +38,30 @@ p {
     font-size:20px;
 }
 h6 {
-    color:grey;
+    color:white;
     text-align:center;
 }
 h5 {
-    color:grey;
+    color:black;
+}
+h4 {
+    color:black;
+}
+h3 {
+    color:white;
 }
 p.center {
     text-align:center;
 }
+.testbox {
+    background:black;
+    margin-bottom:8px;
+    outline:none;
+    border:solid 1px rgb(red, green, blue);
+    padding:8px;
+    width:100%;
+}
+p.center {
+    color:grey;
+}
+
