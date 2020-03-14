@@ -18,6 +18,9 @@ h2 {
     left:50%;
     transform:translate(-50%, -50%);
 }
+#about-me {
+    background: white;
+}
 .border-radius {
     border-radius:50%;
 }
@@ -51,6 +54,9 @@ h3 {
 }
 p.center {
     text-align:center;
+}
+#contact-me {
+    background:black;
 }
 .testbox {
     background:black;
