@@ -10,6 +10,7 @@ h2 {
     text-align:center;
     color:grey;
     font-size:50px;
+    font-family:sans-serif;
 }
 .centered {
     position:absolute;
@@ -19,9 +20,6 @@ h2 {
 }
 .border-radius {
     border-radius:50%;
-}
-.projects {
-    color:grey;
 }
 p {
     color:black;
@@ -43,6 +41,7 @@ h6 {
 }
 h5 {
     color:black;
+    text-align:center;
 }
 h4 {
     color:black;
@@ -63,5 +62,8 @@ p.center {
 }
 p.center {
     color:grey;
+}
+p.left {
+    color:black;
 }
 
