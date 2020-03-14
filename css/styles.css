@@ -41,7 +41,6 @@ h6 {
 h5 {
     color:grey;
 }
-.content {
-    flex: 1 1 auto;   
-    margin-left: 32px;
+p.center {
+    text-align:center;
 }
